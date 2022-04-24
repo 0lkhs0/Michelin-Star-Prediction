@@ -18,6 +18,7 @@ SC1015 Mini Project on Michelin Star Restaurants
 3. Picture of the confusion matrix from Decision Tree Classification
 4. Picture of the confusion matrix from Support Vector Classification
 
+1 Slide used in the presentation
 
 ### Problem Definition
 The Michelin Star to most restaurant owners is the proof of success.
