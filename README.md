@@ -52,8 +52,11 @@ Jeong Dohyun - Data Cleaning and Preparation, Machine Learning
 ### What we learnt from this project
 
 Collaborating using GitHub
+
 Pandas functions
+
 Matplotlib functions
+
 How different classification models work and why some work better for our dataset.
 
 ### Acknowledgments
